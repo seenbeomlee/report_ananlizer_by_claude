@@ -15,6 +15,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ---
 
+## Git 운영 규칙
+
+- **커밋**: 명시적으로 요청할 때만 수행
+- **푸시**: "푸시해줘"라는 명시적 지시가 있을 때만 수행 (커밋과 별도)
+- 이유: 사용자가 잘못된 명령을 내렸을 때 특정 커밋 지점으로 로컬 reset하여 원복할 수 있어야 함
+
+---
+
 ## MCP 도구
 
 한국 문서(HWP, HWPX, PDF, XLSX, DOCX) 파싱에 `kordoc` MCP 서버를 사용한다.
