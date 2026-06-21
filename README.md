@@ -1,4 +1,4 @@
-# report_ananlizer_by_claude
+# nhi71-team-report
 
 제71기 신임관리자과정 정책기획 종합실습 지원 워크스페이스.
 
