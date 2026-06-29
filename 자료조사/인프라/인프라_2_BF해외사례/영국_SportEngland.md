@@ -35,37 +35,52 @@
 
 ---
 
-## 통계 — 확보 필요 수치
+## 통계 — 확보된 수치
 
-### 1. Sport England Active Lives Survey
-- 장애인/비장애인 주 1회 이상 스포츠 참여율 — 연도별 시계열
-- **활용 형식**: "영국 장애인 X% vs. 비장애인 Y% → 격차 Zp% / 한국 격차 38.1%p와 비교"
-- 출처: Sport England 공식 사이트 (무료 공개)
-- 상태: **미확보**
+### 1. Sport England Active Lives Survey 2023/24 — **확보 완료**
 
-### 2. 런던 패럴림픽 레거시 보고서
+- 장애인 신체 비활동 비율(주 30분 미만): **39.5%**
+- 비장애인 신체 비활동 비율: **약 20%**
+- 격차: 약 **19~20%p**
+
+> ⚠️ 영국은 시설 BF 충족률 전국 통계를 집계하지 않음. 참여율 격차만 공개.
+
+**출처**: Sport England「Active Lives Adult Survey November 2023-24」(2025.4 발행)
+- URL: https://www.sportengland.org/research-and-data/data/active-lives
+- 직접 파일: https://sportengland-production-files.s3.eu-west-2.amazonaws.com/s3fs-public/2025-04/ActiveLivesAdult-Nov23-24_V9-23-04-25-10-03-03-02.pdf
+
+**활용 형식**: "영국 장애 성인 신체 비활동 비율 39.5% vs. 비장애인 약 20% → 격차 약 20%p / 한국 참여율 격차 38.1%p"
+
+---
+
+### 2. Sport England 접근가능 시설 설계 지침 (2024) — **확보 완료**
+
+- 2024년 신규 「Accessible and Inclusive Sports Facilities」 가이드 발행
+- 전국 BF 충족률 수치는 공개하지 않음 (시설별 자체 감사 방식)
+
+**출처**: Sport England「Accessible and Inclusive Sports Facilities」(2024)
+- URL: https://www.sportengland.org/guidance-and-support/facilities-and-planning/design-and-cost-guidance/accessible-inclusive
+
+---
+
+## 통계 — 미확보 수치
+
+### 런던 패럴림픽 레거시 보고서 — **미확보**
+
 - 2012 이후 BF 체육시설 증가율, 장애인 스포츠 참여율 변화
 - **활용 형식**: "패럴림픽 개최 후 N년간 시설 BF 전환율 X% 달성"
 - 출처: UK Sport / Sport England「Paralympic Legacy Report」(2013, 2017)
-- 상태: **미확보**
-
-### 3. Accessible Sports Facilities Design Guidance
-- Sport England가 공개하는 접근 가능 체육시설 설계 지침
-- **활용 형식**: 설계 기준 국내 적용 방안 (대안 구체화)
-- 상태: **미확보**
 
 ---
 
 ## 보고서 활용 문장 (초안)
 
-> 영국 Sport England의 Active Lives Survey에 따르면 2022/23년 기준 장애인의 주 1회 이상 스포츠 참여율은 XX%로 비장애인(XX%)보다 XX%p 낮다. 이 격차는 2012년 런던 패럴림픽 이후 Equality Act 2010 s.20의 합리적 조정 의무를 기반으로 한 시설 접근성 개선 정책을 통해 2012년 대비 XX%p 축소되었다.
-
-> ※ 수치 자리 확보 후 수정 필요
+> 영국 Sport England의 Active Lives Survey(2023/24)에 따르면 장애 성인의 신체 비활동 비율은 39.5%로, 비장애인(약 20%)보다 약 20%p 높다. 영국은 Equality Act 2010 s.20의 합리적 조정 의무(duty to make reasonable adjustments)를 통해 체육시설 물리적 장벽 제거를 법적으로 의무화하고 있음에도 참여율 격차가 지속되고 있으며, 이는 법적 의무화 없이 자율 인증만 운영하는 한국(격차 38.1%p)의 구조적 취약성을 더욱 부각한다.
 
 ---
 
 ## 확보 우선순위
 
-1. Active Lives Survey 최신판 (2022/23 또는 2023/24) — 장애인·비장애인 참여율 격차 수치
-2. Paralympic Legacy Report (2017) — 시설 BF 개선율 전후 수치
-3. Equality Act 2010 s.20 원문 텍스트 (legislation.gov.uk)
+1. ~~Active Lives Survey 최신판~~ → **완료** (2023/24, 39.5% / 20%)
+2. Paralympic Legacy Report (2017) — 시설 BF 개선율 전후 수치 (선택)
+3. Equality Act 2010 s.20 원문 텍스트 (legislation.gov.uk) — 법제보고서용
